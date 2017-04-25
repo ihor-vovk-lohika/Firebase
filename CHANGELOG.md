@@ -6,5 +6,6 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 ### Changed
+Updated to 3.16.0 version
 
 ### Removed
